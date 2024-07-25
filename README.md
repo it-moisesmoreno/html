@@ -36,19 +36,12 @@ This repository is dedicated to my self-study of HTML, the foundation of web dev
 
 The repository is organized into folders, each representing a different topic or project. Here's a brief overview:
 
-.
-├── ...
-├── test                    # Test files (alternatively `spec` or `tests`)
-│   ├── benchmarks          # Load and stress tests
-│   ├── integration         # End-to-end, integration tests (alternatively `e2e`)
-│   └── unit                # Unit tests
-└── ...
-
+```bash
 w3schools/html  
 │  
-├── 00-introduction-and-basics/  
-│   ├── 00-home/  
-|       ├── example_00.html  
+├── 00-introduction-and-basics/
+│ ├── 00-home/
+|  ├── example_00.html
 │ ├── 01-introduction/  
 |  ├── example_00.html  
 | ├── 02-editors/  
@@ -422,6 +415,7 @@ w3schools/html
 │ ├── 04-sse/
 |  ├── example_00.html
 |  ├── demo_sse.php
+```
 
 
 ## How to Use 🛠️
