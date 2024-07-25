@@ -37,13 +37,21 @@ This repository is dedicated to my self-study of HTML, the foundation of web dev
 The repository is organized into folders, each representing a different topic or project. Here's a brief overview:
 
 ```bash
+.
+├── ...
+├── test                    # Test files (alternatively `spec` or `tests`)
+│   ├── benchmarks          # Load and stress tests
+│   ├── integration         # End-to-end, integration tests (alternatively `e2e`)
+│   └── unit                # Unit tests
+└── ...
+
 w3schools/html  
 │  
 ├── 00-introduction-and-basics/
-│ ├── 00-home/
-|  ├── example_00.html
-│ ├── 01-introduction/  
-|  ├── example_00.html  
+|├── 00-home/
+| ├── example_00.html
+│├── 01-introduction/
+|       ├── example_00.html  
 | ├── 02-editors/  
 | ├── 03-basic/  
 |  ├── example_00.html  
@@ -69,9 +77,9 @@ w3schools/html
 |  ├── example_01.html  
 |  ├── example_02.html  
 ├── 01-formatting-and-style/
-│ ├── 00-headings/
-|  ├── example_00.html
-|  ├── example_01.html
+│├── 00-headings/
+| ├── example_00.html
+| ├── example_01.html
 │ ├── 01-paragraphs/
 |  ├── example_00.html
 |  ├── example_01.html
@@ -398,11 +406,11 @@ w3schools/html
 |  ├── example_02.html
 |  ├── example_03.html
 ├── 12-apis/
-│ ├── 00-geolocation/
-|  ├── example_00.html
-|  ├── example_01.html
-|  ├── example_02.html
-│ ├── 01-drag-and-drop/
+│├── 00-geolocation/
+| ├── example_00.html
+| ├── example_01.html
+| ├── example_02.html
+│├── 01-drag-and-drop/
 |  ├── example_00.html
 |  ├── example_01.html
 │ ├── 02-web-storage/
