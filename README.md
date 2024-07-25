@@ -36,8 +36,8 @@ This repository is dedicated to my self-study of HTML, the foundation of web dev
 
 The repository is organized into folders, each representing a different topic or project. Here's a brief overview:
 
-w3schools/html
-│
+w3schools/html  
+│  
 ├── 00-introduction-and-basics/  
 │ ├── 00-home/  
 |  ├── example_00.html  
