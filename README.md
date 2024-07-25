@@ -38,35 +38,35 @@ The repository is organized into folders, each representing a different topic or
 
 w3schools/html
 │
-├── 00-introduction-and-basics/
-│ ├── 00-home/
-|  ├── example_00.html
-│ ├── 01-introduction/
-|  ├── example_00.html
-| ├── 02-editors/
-| ├── 03-basic/
-|  ├── example_00.html
-|  ├── example_01.html
-|  ├── example_02.html
-|  ├── example_03.html
-|  ├── example_04.html
-| ├── 04-elements/
-|  ├── example_00.html
-|  ├── example_01.html
-|  ├── example_02.html
-| ├── 05-attributes/
-|  ├── example_00.html
-|  ├── example_01.html
-|  ├── example_02.html
-|  ├── example_03.html
-|  ├── example_04.html
-|  ├── example_05.html
-|  ├── example_06.html
-|  ├── example_07.html
-| ├── 06-comments/
-|  ├── example_00.html
-|  ├── example_01.html
-|  ├── example_02.html
+├── 00-introduction-and-basics/  
+│ ├── 00-home/  
+|  ├── example_00.html  
+│ ├── 01-introduction/  
+|  ├── example_00.html  
+| ├── 02-editors/  
+| ├── 03-basic/  
+|  ├── example_00.html  
+|  ├── example_01.html  
+|  ├── example_02.html  
+|  ├── example_03.html  
+|  ├── example_04.html  
+| ├── 04-elements/  
+|  ├── example_00.html  
+|  ├── example_01.html  
+|  ├── example_02.html  
+| ├── 05-attributes/  
+|  ├── example_00.html  
+|  ├── example_01.html  
+|  ├── example_02.html  
+|  ├── example_03.html  
+|  ├── example_04.html  
+|  ├── example_05.html  
+|  ├── example_06.html  
+|  ├── example_07.html  
+| ├── 06-comments/  
+|  ├── example_00.html  
+|  ├── example_01.html  
+|  ├── example_02.html  
 ├── 01-formatting-and-style/
 │ ├── 00-headings/
 |  ├── example_00.html
