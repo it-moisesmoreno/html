@@ -32,7 +32,7 @@ This repository is dedicated to my self-study of HTML, the foundation of web dev
 - Multimedia
 - APIs
 
-## Project Structure 🗂️
+## Project Structure
 
 The repository is organized into folders, each representing a different topic or project. Here's a brief overview:
 
