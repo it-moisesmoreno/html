@@ -38,7 +38,7 @@ The repository is organized into folders, each representing a different topic or
 
 ```bash
 
-w3schools/html  
+w3schools/tutorial-html/beginner  
 │  
 ├── 00-introduction-and-basics/
 │   ├── 00-home/
