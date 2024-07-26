@@ -12,11 +12,11 @@ Welcome to my HTML self-study repository! This repository documents my journey o
 - [Contributing](#contributing)
 - [License](#license)
 
-## Introduction 🌟
+## Introduction 🌟 <a name="introduction"></a>
 
 This repository is dedicated to my self-study of HTML, the foundation of web development. Here, you'll find examples, exercises, and projects that I've worked on to enhance my understanding of HTML.
 
-## Topics Covered 📝
+## Topics Covered 📝 <a name="topics-covered"></a>
 
 - Basic HTML Structure
 - Formatting and Style
@@ -420,7 +420,7 @@ w3schools/html
 ```
 
 
-## How to Use 🛠️
+## How to Use 🛠️ <a name="how-to-use"></a>
 
 1. Clone the repository to your local machine using:
    ```bash
@@ -428,15 +428,15 @@ w3schools/html
 2. Navigate to the topic folder you are interested in.
 3. Open the HTML files in your preferred web browser or code editor to explore the examples and code.
 
-## Resources 📚
+## Resources 📚 <a name="resources"></a>
 
 [W3Schools HTML Tutorial](https://www.w3schools.com/html/default.asp)
 
-## Contributing 🤝
+## Contributing 🤝 <a name="contributing"></a>
 
 This repository is primarily for my personal learning, but if you'd like to contribute or provide suggestions, feel free to open an issue or submit a pull request.
 
-## License 📜
+## License 📜 <a name="license"></a>
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
